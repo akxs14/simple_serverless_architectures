@@ -28,8 +28,8 @@ I hope you will enjoy it and will provide you with a fresh perspective!
 * The tech stack
 	- Python
 	- Ansible
-	- htmx
 	- Milligram
+	- htmx
 
 * Basic building blocks
 	- Compute, AWS Lambda
